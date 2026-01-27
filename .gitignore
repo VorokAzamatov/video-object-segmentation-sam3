@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyTorch outputs
+*.pt
+
+# Dirs
+video_outputs/
+data/
+ignore/
+sam3/
