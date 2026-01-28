@@ -45,9 +45,12 @@ Interactive visualization of segmentation masks, bounding boxes, and object IDs.
 ## Example Results
 
 ### Frame Snapshots
-Frame 0 | Frame 60 | Frame 130
-:---:|:---:|:---:
-![Frame 0](assets/frame0.png) | ![Frame 60](assets/frame60.png) | ![Frame 120](assets/frame120.png)
+<h4 align="center">Frame Snapshots</h4>
+<p align="center">
+  <img src="assets/frame0.png" width="600px" style="margin:5px"/>
+  <img src="assets/frame60.png" width="600px" style="margin:5px"/>
+  <img src="assets/frame120.png" width="600px" style="margin:5px"/>
+</p>
 
 
 ### GIF Demo
